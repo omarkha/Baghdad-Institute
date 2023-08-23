@@ -23,9 +23,9 @@ const NavBar = () => {
           />
           <div className="brand">
             <div>
-              <h1 className="brandnamear">مؤسسة كنز لريادة الاعمال</h1>
+              <h1 className="brandnamear">اكاديمية البرق لريداة الاعمال</h1>
 
-              <h1 className="brandname">Kenz Institute of Entrepreneurship</h1>
+              <h1 className="brandname">Al-Barq Entrepreneurship Academy</h1>
               <h1 className="tagline">نبادر ونبتكر لعراق عظيم</h1>
             </div>
           </div>
