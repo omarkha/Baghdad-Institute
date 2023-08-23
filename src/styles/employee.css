@@ -1,0 +1,14 @@
+.employee-wrapper {
+  height: fit-content;
+  padding: 55px 0;
+  color: rgb(230, 230, 230);
+}
+
+ul {
+  width: fit-content;
+  text-align: left;
+}
+
+h5 {
+  width: fit-content;
+}
