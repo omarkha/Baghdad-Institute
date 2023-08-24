@@ -3,6 +3,7 @@
   height: fit-content;
   padding: 55px 0;
   color: rgb(230, 230, 230);
+  text-align: right;
 }
 
 ul {
@@ -10,8 +11,43 @@ ul {
   text-align: left;
 }
 
+h3 {
+  color: rgb(124, 164, 0);
+}
+
+h4 {
+  color: #f9f871;
+  width: fit-content;
+  font-size: 34px;
+  font-weight: 200;
+  padding-top: 55px;
+  font-weight: bold;
+}
+
 h5 {
+  color: #f9f871;
   width: fit-content;
   font-size: 21px;
   font-weight: 200;
+}
+
+.business {
+  display: flex;
+  flex-direction: column;
+  gap: 34px;
+}
+
+.programs {
+  display: flex;
+  flex-direction: row;
+  gap: 34px;
+}
+
+.brand-development h4 {
+  margin: 0 auto;
+}
+
+.brand-development {
+  margin: 0 auto;
+  width: 62.2vw;
 }
