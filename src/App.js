@@ -13,6 +13,7 @@ import EmployeeDirector from "./pages/projectmanagement/EmployeeDirector";
 import EmployeeUX from "./pages/projectmanagement/EmployeeUX";
 import EmployeeGraphics from "./pages/projectmanagement/EmployeeGraphics";
 import BusinessPlan from "./pages/projectmanagement/BusinessPlan";
+import EmployeeAppDeveloper from "./pages/projectmanagement/EmployeeAppDeveloper";
 function App() {
   return (
     <Router>
@@ -32,6 +33,7 @@ function App() {
           <Route element={<EmployeeUX />} path="/employee-ux" />
           <Route element={<EmployeeGraphics />} path="/employee-graphics" />
           <Route element={<BusinessPlan />} path="/business-plan" />
+          <Route element={<EmployeeAppDeveloper />} path="/employee-appdev" />
         </Routes>
 
         <Footer />

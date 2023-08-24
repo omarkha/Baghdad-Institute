@@ -12,7 +12,7 @@ const EmployeeUX = () => {
               Design an excellent learning experience for the Academy's
               students. Work with the software engineer to ensure that the user
               experience is more than acceptable, and make sure that the
-              experience meets industry standards.
+              experience surpasses industry standards.
             </p>
             <h5 className="mt-5">Responsibilities</h5>
             <ul className="responsibilies">
