@@ -1,8 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Scheherazade+New&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Almarai&display=swap");
+
 .employee-wrapper,
 .business-wrapper {
   height: fit-content;
   padding: 55px 0;
   color: rgb(230, 230, 230);
+  font-family: "Almarai", serif;
+  word-spacing: 5px;
 }
 .business-wrapper {
   text-align: right;
@@ -19,16 +24,16 @@ h3 {
 
 h4 {
   color: #f9f871;
-  width: fit-content;
   font-size: 34px;
   font-weight: 200;
   padding-top: 55px;
   font-weight: bold;
+  text-align: right;
 }
 
 h5 {
   color: #f9f871;
-  width: fit-content;
+  line-height: 34px;
   font-size: 21px;
   font-weight: 200;
 }

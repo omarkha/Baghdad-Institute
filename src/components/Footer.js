@@ -1,5 +1,6 @@
 import React from "react";
 import intrologo from "../media/TIB2.png";
+import { Link } from "react-router-dom";
 const Footer = () => {
   return (
     <footer>
@@ -10,7 +11,10 @@ const Footer = () => {
               <li>Admissions</li>
               <li>What You Will Learn</li>
               <li>Contact Us</li>
-              <li>About TIB</li>
+              <li>About Al-Barq</li>
+              <li>
+                <Link to="/careers">Careers</Link>
+              </li>
             </ul>
             <div className="brand">
               <div

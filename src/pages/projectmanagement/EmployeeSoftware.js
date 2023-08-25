@@ -9,37 +9,62 @@ const EmployeeSoftware = () => {
           <div className="employee">
             <h3>You You Will Be Doing</h3>
             <p className="mission">
-              Creating a Full Stack Software Engineering course. The course has
-              to be comprehensive, absolute beginner friendly, and highly
-              effective in transforming a beginner with little to no prior
-              experience in coding into a Full Stack Software Engineer who can
-              start relying on themselves to continue their learning after the
-              course.
+              We are looking for a software engineer who is responsible for
+              creating and teaching a Full Stack Software Engineering course.
+              The course has to be comprehensive, absolute beginner-friendly,
+              and highly effective in transforming a beginner with little to no
+              prior experience in coding into a Full Stack Software Engineer who
+              can start relying on themselves to continue their learning after
+              the course. The course will be 6 months long, taught 4 days a
+              week, 4 hours a day. The ideal candidate should be an Arabic
+              speaker and have experience in collaborating with team members
+              like the academic director, instructional designer, and graphics
+              designer to create a high-quality course.
             </p>
             <h5 className="mt-5">Responsibilities</h5>
             <ul className="responsibilies">
-              <li>Curriculum Development</li>
-              <li>Lesson Planning</li>
               <li>
-                Teaching Recorded Zoom Lectures consisting of Arabic students
-                (you have an assistant)
+                Create and teach a Full Stack Software Engineering course.
               </li>
-              <li>Assigning Portfolio Projects</li>
-              <li>Creating periodic quizzes to assess learning progress</li>
-              <li>Collaborating with the project team</li>
+              <li>
+                Ensure that the course is comprehensive and absolute
+                beginner-friendly.
+              </li>
+              <li>Develop assessments to measure student learning outcomes.</li>
+              <li>
+                Collaborate with other team members like the academic director,
+                instructional designer, and graphics designer to create a
+                high-quality course.
+              </li>
+              <li>
+                Ensure that the course is highly effective in transforming a
+                beginner with little to no prior experience in coding into a
+                Full Stack Software Engineer who can start relying on themselves
+                to continue their learning after the course.
+              </li>
             </ul>
             <h5 className="mt-5">Qualifications</h5>
             <ul className="qualifications">
-              <li>A minimum of a Bachelors degree</li>
-              <li>over 4 years of software engineering experience</li>
-              <li>A native Arabic speaker</li>
-              <li>Passion for education</li>
-              <li>proficient in English</li>
+              <li>
+                Bachelor’s degree in Computer Science or related field.A minimum
+                of a Bachelors degree
+              </li>
+              <li>3+ years of experience in software engineering.</li>
+              <li>
+                Experience in creating and teaching Full Stack Software
+                Engineering courses.
+              </li>
+              <li>
+                Experience in developing assessments to measure student learning
+                outcomes.
+              </li>
+              <li>Excellent problem-solving skills.</li>
+              <li>Native Arabic Speaker</li>
             </ul>
             <h5 className="mt-5">Benefits</h5>
             <div className="benefits">
               <ul>
-                <li>$90,000 contract paid weekly</li>
+                <li>$100,000 contract paid weekly</li>
                 <li>Paid Vacation</li>
                 <li>Post-project opportunities</li>
                 <li>$6,000 Bonus on the first day of teaching</li>

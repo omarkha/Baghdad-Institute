@@ -1,6 +1,6 @@
 import React from "react";
 import emblem from "../media/iraq.png";
-import bismallah from "../media/bismallah.png";
+import { Link } from "react-router-dom";
 const NavBar = () => {
   return (
     <nav class="navbar navbar-expand-lg ">
@@ -16,20 +16,20 @@ const NavBar = () => {
         >
           <span className="navbar-toggler-icon"></span>
         </button>
-        <a className="navbar-brand" href="#">
+        <Link className="navbar-brand" to="/">
           <div
             className="emblem"
             style={{ backgroundImage: `url(${emblem})` }}
           />
           <div className="brand">
             <div>
-              <h1 className="brandnamear">اكاديمية البرق لريداة الاعمال</h1>
+              <h1 className="brandnamear">اكاديمية البرق لريادة الاعمال</h1>
 
-              <h1 className="brandname">Al-Barq Entrepreneurship Academy</h1>
+              <h1 className="brandname">Al-Barq Entrepreneurial Academy</h1>
               <h1 className="tagline">نبادر ونبتكر لعراق عظيم</h1>
             </div>
           </div>
-        </a>
+        </Link>
 
         <div className="collapse navbar-collapse" id="navbarTogglerDemo03">
           <ul className="navbar-nav mr-auto mt-2 mt-lg-0">
@@ -45,7 +45,7 @@ const NavBar = () => {
               </a>
             </li>
             <li>
-              <button className="nav-cta-btn">Apply</button>
+              <button className="nav-cta-btn">Enroll</button>
             </li>
           </ul>
         </div>
